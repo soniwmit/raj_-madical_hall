@@ -1,0 +1,6 @@
+{
+  "name": "RAJ MADICAL HALL",
+  "description": "Your Trusted Medical Store for Genuine Medicines & Healthcare Needs in Pai Bigha, Bihar. Providing genuine medicines, wellness products, and easy WhatsApp order support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
