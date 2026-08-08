@@ -179,7 +179,7 @@ export default function Footer({ setCurrentTab, openOrderForm }: FooterProps) {
           <div className="space-y-1 text-center sm:text-left">
             <p>
               © {currentYear} <strong>RAJ MADICAL HALL</strong>. All Rights Reserved. |{' '}
-               <a href="#" class="wmit-popup-trigger">Developed by WMIT</a>
+               <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
             </p>
             <p className="text-[10px] text-slate-600">
               Disclaimer: Please consult a qualified healthcare physician before administering medications. Self-treatment of medications is not advised.
